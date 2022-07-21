@@ -18,7 +18,7 @@ I created a LogisticRegression model, fitted it to the data, and printed the mod
 
 ### 4. Revisit the Preprocessing: Scale the Data
 
-I used `StandardScaler` to scale the training and testing sets.
+I used StandardScaler to scale the training and testing sets.
 
 ### 5. Fit Models on Scaled Data
 
